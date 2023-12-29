@@ -1,0 +1,36 @@
+var classm5_1_1_button___class =
+[
+    [ "button_state_t", "classm5_1_1_button___class.html#a4efde4699e8487cba886fb2fb3a3193d", [
+      [ "state_nochange", "classm5_1_1_button___class.html#a4efde4699e8487cba886fb2fb3a3193da6289b02da178754ce1f1ce7f687a1e59", null ],
+      [ "state_clicked", "classm5_1_1_button___class.html#a4efde4699e8487cba886fb2fb3a3193da3d5970844c4893eefbd58814fb7b9cce", null ],
+      [ "state_hold", "classm5_1_1_button___class.html#a4efde4699e8487cba886fb2fb3a3193da9e0f07537cc6c1f87d4ffd4117597f39", null ],
+      [ "state_decide_click_count", "classm5_1_1_button___class.html#a4efde4699e8487cba886fb2fb3a3193da001eed8f530002769f5bcf7bb9632c35", null ]
+    ] ],
+    [ "getClickCount", "classm5_1_1_button___class.html#a496549b46d2c431052ee5d45632747f0", null ],
+    [ "getDebounceThresh", "classm5_1_1_button___class.html#a90bc9f80f3f86080547f2548878514ef", null ],
+    [ "getHoldThresh", "classm5_1_1_button___class.html#aac649a22a3f81c3284a34763f17a907c", null ],
+    [ "getState", "classm5_1_1_button___class.html#ac2eb3dabb5d435387a299eda9a916ba1", null ],
+    [ "getUpdateMsec", "classm5_1_1_button___class.html#aa44c0c6c4f43492059751ef72cef6bba", null ],
+    [ "isHolding", "classm5_1_1_button___class.html#a1f9cf91713b705c5f4872d07f78c27a3", null ],
+    [ "isPressed", "classm5_1_1_button___class.html#a2ed4818d47654f7dea0435dff0a4bc30", null ],
+    [ "isReleased", "classm5_1_1_button___class.html#a24eb6c5a11e84ddeac28484b18f52e96", null ],
+    [ "lastChange", "classm5_1_1_button___class.html#a50980b2b990efa11a134c56910015a5d", null ],
+    [ "pressedFor", "classm5_1_1_button___class.html#a424eeb3fd9c6067691bdf363548bf24f", null ],
+    [ "releasedFor", "classm5_1_1_button___class.html#abc4697039a2d7430c67f9bfc6c678f38", null ],
+    [ "setDebounceThresh", "classm5_1_1_button___class.html#a7658c9202a6d073eb6d9b25588c67421", null ],
+    [ "setHoldThresh", "classm5_1_1_button___class.html#a951b4e9c322052cdec9b6c47c230ec7f", null ],
+    [ "setRawState", "classm5_1_1_button___class.html#ab13b86aad7bf32abbfd04de095f0e5cd", null ],
+    [ "setState", "classm5_1_1_button___class.html#afa7824ca34c8730dcc1665abbb29afb8", null ],
+    [ "wasChangePressed", "classm5_1_1_button___class.html#a0ff71c3895a5c66c77d8e90d441612a0", null ],
+    [ "wasClicked", "classm5_1_1_button___class.html#a6d0c5abfccec44b508dd19ff7cb86909", null ],
+    [ "wasDecideClickCount", "classm5_1_1_button___class.html#a37169b86f67e3ac85ea849e393a9fbd6", null ],
+    [ "wasDeciedClickCount", "classm5_1_1_button___class.html#a49f58d627fb421f85eab3d4abea2447c", null ],
+    [ "wasDoubleClicked", "classm5_1_1_button___class.html#a3a6e1befecf08123c7c004cef1a7c36f", null ],
+    [ "wasHold", "classm5_1_1_button___class.html#ac22efd909553e6469c726bcace6db4d5", null ],
+    [ "wasPressed", "classm5_1_1_button___class.html#a7617ea674e1fa0bebad607cd1d0ac007", null ],
+    [ "wasReleased", "classm5_1_1_button___class.html#ad6a4027c0c72e2dab4f28b6d2f818e05", null ],
+    [ "wasReleasedAfterHold", "classm5_1_1_button___class.html#a71c1f543cd81e6b561b5c9ff35948d99", null ],
+    [ "wasReleaseFor", "classm5_1_1_button___class.html#ab3fdc512dd15449cc9bd64a8dd1715e2", null ],
+    [ "wasReleasefor", "classm5_1_1_button___class.html#a93135b9bbf7639f5ae388ce3f96df3eb", null ],
+    [ "wasSingleClicked", "classm5_1_1_button___class.html#a3ed0ada1b08576d56d02cf22d49bfe8e", null ]
+];
