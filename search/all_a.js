@@ -1,20 +1,10 @@
 var searchData=
 [
-  ['lastchange_383',['lastChange',['../classm5_1_1_button___class.html#a50980b2b990efa11a134c56910015a5d',1,'m5::Button_Class']]],
-  ['lcd_384',['Lcd',['../classm5_1_1_m5_unified.html#a7bf7118176341d8c013f2d63916f776d',1,'m5::M5Unified']]],
-  ['led_5fbrightness_385',['led_brightness',['../structm5_1_1_m5_unified_1_1config__t.html#a66c6d9069db8edb4ceaa8e5460acc7f4',1,'m5::M5Unified::config_t']]],
-  ['length_386',['length',['../structm5_1_1_mic___class_1_1recording__info__t.html#ae809d5359ac030c60a30a8f0b2294b82',1,'m5::Mic_Class::recording_info_t::length()'],['../structm5_1_1_speaker___class_1_1wav__info__t.html#ae809d5359ac030c60a30a8f0b2294b82',1,'m5::Speaker_Class::wav_info_t::length()']]],
-  ['lightsleep_387',['lightSleep',['../classm5_1_1_power___class.html#af7261df1e5c0a51fd966bdf12616dba7',1,'m5::Power_Class']]],
-  ['liner_5fbuf_388',['liner_buf',['../structm5_1_1_speaker___class_1_1channel__info__t.html#ac2d243473dd090ae6d931ebb2162626b',1,'m5::Speaker_Class::channel_info_t']]],
-  ['loadoffsetfromnvs_389',['loadOffsetFromNVS',['../classm5_1_1_i_m_u___class.html#a68555343aebe73aa85722ae9f7e604aa',1,'m5::IMU_Class']]],
-  ['log_390',['Log',['../classm5_1_1_m5_unified.html#a01de78f303123621923ee562142da203',1,'m5::M5Unified']]],
-  ['log_5fclass_391',['Log_Class',['../classm5_1_1_log___class.html',1,'m5']]],
-  ['log_5fclass_2ecpp_392',['Log_Class.cpp',['../_log___class_8cpp.html',1,'']]],
-  ['log_5fclass_2ehpp_393',['Log_Class.hpp',['../_log___class_8hpp.html',1,'']]],
-  ['log_5ftarget_5fcallback_394',['log_target_callback',['../namespacem5.html#a6475f2ddfa60c875595a1bf742c7f5b1a5483320c21e6c19c09b8056c55c5ef32',1,'m5']]],
-  ['log_5ftarget_5fdisplay_395',['log_target_display',['../namespacem5.html#a6475f2ddfa60c875595a1bf742c7f5b1a113941362fb31a0229d811107d5181dd',1,'m5']]],
-  ['log_5ftarget_5fmax_396',['log_target_max',['../namespacem5.html#a6475f2ddfa60c875595a1bf742c7f5b1a3ffbbfd492de24a4d24521233b4c06cc',1,'m5']]],
-  ['log_5ftarget_5fserial_397',['log_target_serial',['../namespacem5.html#a6475f2ddfa60c875595a1bf742c7f5b1a7bee8f4ece0bd5c8cbd9d37fdee52108',1,'m5']]],
-  ['log_5ftarget_5ft_398',['log_target_t',['../namespacem5.html#a6475f2ddfa60c875595a1bf742c7f5b1',1,'m5']]],
-  ['loop_399',['loop',['../user__code_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f',1,'user_code.cpp']]]
+  ['m5timer_73',['M5Timer',['../classM5Timer.html',1,'M5Timer'],['../classM5Timer.html#af0d3d7a63ee7cee99996c74e01684056',1,'M5Timer::M5Timer()']]],
+  ['m5unified_74',['M5Unified',['../classm5_1_1M5Unified.html',1,'m5::M5Unified'],['../md_README.html',1,'(Global Namespace)']]],
+  ['magnification_75',['magnification',['../structm5_1_1mic__config__t.html#afd8de65478e0e308edd0bcba3c9b9989',1,'m5::mic_config_t::magnification()'],['../structm5_1_1speaker__config__t.html#a36f24ac11d99807c058bf367daa04b31',1,'m5::speaker_config_t::magnification()']]],
+  ['max_5ftimers_76',['MAX_TIMERS',['../classM5Timer.html#a637beeec4f742a4cad30e1b870bfe011',1,'M5Timer']]],
+  ['mic_5fclass_77',['Mic_Class',['../classm5_1_1Mic__Class.html',1,'m5']]],
+  ['mic_5fconfig_5ft_78',['mic_config_t',['../structm5_1_1mic__config__t.html',1,'m5']]],
+  ['mpu6886_5fclass_79',['MPU6886_Class',['../classm5_1_1MPU6886__Class.html',1,'m5']]]
 ];

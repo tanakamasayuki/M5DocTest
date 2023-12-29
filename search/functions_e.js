@@ -1,6 +1,11 @@
 var searchData=
 [
-  ['timersleep_1093',['timerSleep',['../classm5_1_1_power___class.html#ae264497d201fec3842d0c17b104601fa',1,'m5::Power_Class::timerSleep(int seconds)'],['../classm5_1_1_power___class.html#a801ea7aaeef936060e3340394e353d55',1,'m5::Power_Class::timerSleep(const rtc_time_t &amp;time)'],['../classm5_1_1_power___class.html#a6e1ed89dd679319dd0d2c474afc376a3',1,'m5::Power_Class::timerSleep(const rtc_date_t &amp;date, const rtc_time_t &amp;time)']]],
-  ['toggle_1094',['toggle',['../class_m5_timer.html#aaf9dedf7a101130de48e0ec1da463cc4',1,'M5Timer']]],
-  ['tone_1095',['tone',['../classm5_1_1_speaker___class.html#a04327297b00ec3a6fd4a87cb35f4ce62',1,'m5::Speaker_Class::tone(float frequency, uint32_t duration, int channel, bool stop_current_sound, const uint8_t *raw_data, size_t array_len, bool stereo=false)'],['../classm5_1_1_speaker___class.html#aaf29b83966de6d79e80660963a173357',1,'m5::Speaker_Class::tone(float frequency, uint32_t duration=UINT32_MAX, int channel=-1, bool stop_current_sound=true)']]]
+  ['wasclicked_291',['wasClicked',['../classm5_1_1Button__Class.html#a700202ab16f37efb994fdd5c1e6d434c',1,'m5::Button_Class']]],
+  ['wasdecideclickcount_292',['wasDecideClickCount',['../classm5_1_1Button__Class.html#a6e26a5b70b8c8c2009112da0196e7f14',1,'m5::Button_Class']]],
+  ['wasdoubleclicked_293',['wasDoubleClicked',['../classm5_1_1Button__Class.html#aa21d285fce3f9d102fe279a8249af1b4',1,'m5::Button_Class']]],
+  ['washold_294',['wasHold',['../classm5_1_1Button__Class.html#a1bde0f6477617bb5aa63f691f62347da',1,'m5::Button_Class']]],
+  ['wassingleclicked_295',['wasSingleClicked',['../classm5_1_1Button__Class.html#abdb6f32a1679aa6c04781a02d0421536',1,'m5::Button_Class']]],
+  ['write_296',['write',['../classm5_1_1I2C__Class.html#a579642fbced190a8a7aa4a3f28d5f019',1,'m5::I2C_Class::write(std::uint8_t data) const'],['../classm5_1_1I2C__Class.html#aef77857a1da681aa100db286b00deb00',1,'m5::I2C_Class::write(const std::uint8_t *data, std::size_t length) const']]],
+  ['writeregister_297',['writeRegister',['../classm5_1_1I2C__Class.html#a639ea3173b2759899692408103b91576',1,'m5::I2C_Class']]],
+  ['writeregister8_298',['writeRegister8',['../classm5_1_1I2C__Class.html#aadbb966433a9867d18d5d49dcc37f7c4',1,'m5::I2C_Class']]]
 ];

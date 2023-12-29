@@ -1,27 +1,6 @@
 var searchData=
 [
-  ['task_5fpinned_5fcore_700',['task_pinned_core',['../structm5_1_1mic__config__t.html#aec471c763014edcf45bd7a9424fa4b40',1,'m5::mic_config_t::task_pinned_core()'],['../structm5_1_1speaker__config__t.html#aec471c763014edcf45bd7a9424fa4b40',1,'m5::speaker_config_t::task_pinned_core()']]],
-  ['task_5fpriority_701',['task_priority',['../structm5_1_1mic__config__t.html#a6b8b0a9e736ea4bca2bf2a3679f6b201',1,'m5::mic_config_t::task_priority()'],['../structm5_1_1speaker__config__t.html#a6b8b0a9e736ea4bca2bf2a3679f6b201',1,'m5::speaker_config_t::task_priority()']]],
-  ['temp_702',['temp',['../_i_m_u___base_8hpp.html#a54baf6d3cf7819fd576efcdeb5ed6d98',1,'temp():&#160;IMU_Base.hpp'],['../structm5_1_1_i_m_u___base_1_1imu__raw__data__t.html#a54baf6d3cf7819fd576efcdeb5ed6d98',1,'m5::IMU_Base::imu_raw_data_t::temp()']]],
-  ['temp_5foffset_703',['temp_offset',['../structm5_1_1_i_m_u___base_1_1imu__convert__param__t.html#a3429f91453a1160c3eb0d63cdef0cead',1,'m5::IMU_Base::imu_convert_param_t']]],
-  ['temp_5fres_704',['temp_res',['../structm5_1_1_i_m_u___base_1_1imu__convert__param__t.html#a2765bcaf24a9520d610967aa94c20aa1',1,'m5::IMU_Base::imu_convert_param_t']]],
-  ['temperature_5f0_5faddr_705',['TEMPERATURE_0_ADDR',['../classm5_1_1_b_m_i270___class.html#af7998ab8d0ab258b16aeac8895dd4106',1,'m5::BMI270_Class']]],
-  ['timer_5fcallback_706',['timer_callback',['../_m5_timer_8h.html#ac2dcf9bdef5100d000a6edb77649c8a6',1,'M5Timer.h']]],
-  ['timersleep_707',['timerSleep',['../classm5_1_1_power___class.html#ae264497d201fec3842d0c17b104601fa',1,'m5::Power_Class::timerSleep(int seconds)'],['../classm5_1_1_power___class.html#a801ea7aaeef936060e3340394e353d55',1,'m5::Power_Class::timerSleep(const rtc_time_t &amp;time)'],['../classm5_1_1_power___class.html#a6e1ed89dd679319dd0d2c474afc376a3',1,'m5::Power_Class::timerSleep(const rtc_date_t &amp;date, const rtc_time_t &amp;time)']]],
-  ['timezone_708',['timezone',['../_r_t_c8563___class_8hpp.html#a6de5569b6c2d386b29ae6c9c5407fd0a',1,'RTC8563_Class.hpp']]],
-  ['toggle_709',['toggle',['../class_m5_timer.html#aaf9dedf7a101130de48e0ec1da463cc4',1,'M5Timer']]],
-  ['tolerance_710',['tolerance',['../_i_m_u___class_8hpp.html#ab93b9f6442e61e2a8cfbe045b0641127',1,'IMU_Class.hpp']]],
-  ['tone_711',['tone',['../classm5_1_1_speaker___class.html#a04327297b00ec3a6fd4a87cb35f4ce62',1,'m5::Speaker_Class::tone(float frequency, uint32_t duration, int channel, bool stop_current_sound, const uint8_t *raw_data, size_t array_len, bool stereo=false)'],['../classm5_1_1_speaker___class.html#aaf29b83966de6d79e80660963a173357',1,'m5::Speaker_Class::tone(float frequency, uint32_t duration=UINT32_MAX, int channel=-1, bool stop_current_sound=true)']]],
-  ['touch_712',['Touch',['../classm5_1_1_m5_unified.html#a266de3dc809ffa214e9dddf05772a5a3',1,'m5::M5Unified']]],
-  ['touch_713',['touch',['../namespacem5.html#af0a1d1114ba348ba72086b6ab31b2240a126e1551ed956f996f40a666cf2e27b3',1,'m5']]],
-  ['touch_5fbegin_714',['touch_begin',['../namespacem5.html#af0a1d1114ba348ba72086b6ab31b2240a5e0aa6944fcf33a1971943bccc1604b8',1,'m5']]],
-  ['touch_5fclass_715',['Touch_Class',['../classm5_1_1_touch___class.html',1,'m5']]],
-  ['touch_5fclass_2ecpp_716',['Touch_Class.cpp',['../_touch___class_8cpp.html',1,'']]],
-  ['touch_5fclass_2ehpp_717',['Touch_Class.hpp',['../_touch___class_8hpp.html',1,'']]],
-  ['touch_5fdetail_5ft_718',['touch_detail_t',['../structm5_1_1_touch___class_1_1touch__detail__t.html',1,'Touch_Class::touch_detail_t'],['../namespacem5.html#a825ea2f00109d505159ac0b545e7bfcf',1,'m5::touch_detail_t()']]],
-  ['touch_5fend_719',['touch_end',['../namespacem5.html#af0a1d1114ba348ba72086b6ab31b2240a8bccf4f42f952d453697fe77cc9e56c0',1,'m5']]],
-  ['touch_5fmax_5fpoints_720',['TOUCH_MAX_POINTS',['../classm5_1_1_touch___class.html#af7d757d14bffbfd070da831847488250',1,'m5::Touch_Class']]],
-  ['touch_5fmin_5fupdate_5fmsec_721',['TOUCH_MIN_UPDATE_MSEC',['../classm5_1_1_touch___class.html#a970e20cca578d843592d897204aa08cf',1,'m5::Touch_Class']]],
-  ['touch_5fpoint_5ft_722',['touch_point_t',['../namespacem5.html#ac7c3a6034399094ab1414049df6c7ebd',1,'m5']]],
-  ['touch_5fstate_5ft_723',['touch_state_t',['../namespacem5.html#af0a1d1114ba348ba72086b6ab31b2240',1,'m5']]]
+  ['update_157',['update',['../classm5_1_1M5Unified.html#aa7dfac03ef33e07ef6e2ce81114bb239',1,'m5::M5Unified::update()'],['../classm5_1_1Touch__Class.html#a5c7ce30fac19040843e7ee629c9b6740',1,'m5::Touch_Class::update()']]],
+  ['use_5fadc_158',['use_adc',['../structm5_1_1mic__config__t.html#ad291298aa3432efd1e796e0a2534c6a4',1,'m5::mic_config_t']]],
+  ['use_5fdac_159',['use_dac',['../structm5_1_1speaker__config__t.html#a8cbfe0e55a396ba55214879f2a5e6e45',1,'m5::speaker_config_t']]]
 ];
