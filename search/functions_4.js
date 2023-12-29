@@ -1,22 +1,13 @@
 var searchData=
 [
-  ['getbatterycurrent_212',['getBatteryCurrent',['../classm5_1_1Power__Class.html#a4bd6a55f54c4a64aa38894c4bfde8132',1,'m5::Power_Class']]],
-  ['getbatterylevel_213',['getBatteryLevel',['../classm5_1_1AXP192__Class.html#a36d28dfad3f68efa96b44425b6a5b89b',1,'m5::AXP192_Class::getBatteryLevel()'],['../classm5_1_1AXP2101__Class.html#a78891bd9aa1e3ff4930366f0ddef7b1b',1,'m5::AXP2101_Class::getBatteryLevel()'],['../classm5_1_1IP5306__Class.html#a6051e6fd504bd6b2cd1dbc497c057c3e',1,'m5::IP5306_Class::getBatteryLevel()'],['../classm5_1_1Power__Class.html#a3bc6fddabe8bc2ba2a8baab61e2d29f3',1,'m5::Power_Class::getBatteryLevel(void)']]],
-  ['getbatteryvoltage_214',['getBatteryVoltage',['../classm5_1_1Power__Class.html#ab43ddd3664e530b85a875e1b46358c94',1,'m5::Power_Class']]],
-  ['getboard_215',['getBoard',['../classm5_1_1M5Unified.html#a6f49b82c8fda3594cffb84c60e50192f',1,'m5::M5Unified']]],
-  ['getbusvoltage_216',['getBusVoltage',['../classm5_1_1INA3221__Class.html#a4512c3d9aa5d40c813d04dab45f5d391',1,'m5::INA3221_Class']]],
-  ['getchannelvolume_217',['getChannelVolume',['../classm5_1_1Speaker__Class.html#ac1f8eaf8baf19d6590cd26c53e0b1176',1,'m5::Speaker_Class']]],
-  ['getchargestatus_218',['getChargeStatus',['../classm5_1_1AXP2101__Class.html#a3c92c0f31aaa1f4016ec0ef2e3971eb4',1,'m5::AXP2101_Class']]],
-  ['getcount_219',['getCount',['../classm5_1_1Touch__Class.html#a825a70a20dd321718feb1cbf2840b091',1,'m5::Touch_Class']]],
-  ['getenablecolor_220',['getEnableColor',['../classm5_1_1Log__Class.html#a7abece2623fa046e231e120e37945b00',1,'m5::Log_Class']]],
-  ['getextoutput_221',['getExtOutput',['../classm5_1_1Power__Class.html#ae6f5e83dd97d53b115c73283d9c1b8bc',1,'m5::Power_Class']]],
-  ['getkeystate_222',['getKeyState',['../classm5_1_1Power__Class.html#ac0936711d8d5dec2ac32711442111e83',1,'m5::Power_Class']]],
-  ['getloglevel_223',['getLogLevel',['../classm5_1_1Log__Class.html#a573709c8d31c793b527f5ae9df59cdcd',1,'m5::Log_Class']]],
-  ['getnumavailabletimers_224',['getNumAvailableTimers',['../classM5Timer.html#aaf0e4b26873baf284574996a9aa3e462',1,'M5Timer']]],
-  ['getnumtimers_225',['getNumTimers',['../classM5Timer.html#a0ad4e76aaf348ff45861ce225c678214',1,'M5Timer']]],
-  ['getpekpress_226',['getPekPress',['../classm5_1_1AXP2101__Class.html#a45c6182abdf9ceaba3251fe7fb32ff5d',1,'m5::AXP2101_Class']]],
-  ['getplayingchannels_227',['getPlayingChannels',['../classm5_1_1Speaker__Class.html#aae64f011378b15a18e17c3ee045de1c4',1,'m5::Speaker_Class']]],
-  ['getupdatemsec_228',['getUpdateMsec',['../classm5_1_1M5Unified.html#a3a7258a44555c1967ebd5db2d0051371',1,'m5::M5Unified']]],
-  ['getusboutput_229',['getUsbOutput',['../classm5_1_1Power__Class.html#ae7f84cbd5d8fedc4be2de32a13683432',1,'m5::Power_Class']]],
-  ['getvolume_230',['getVolume',['../classm5_1_1Speaker__Class.html#a9c1547eecd0dfa3a725a102b3073d161',1,'m5::Speaker_Class']]]
+  ['deepsleep_883',['deepSleep',['../classm5_1_1Power__Class.html#a6ff134344d6a95139df29a228b9f2aab',1,'m5::Power_Class']]],
+  ['delay_884',['delay',['../classm5_1_1M5Unified.html#aafa5f62cc5b8802d505eec8e9291082f',1,'m5::M5Unified']]],
+  ['deletetimer_885',['deleteTimer',['../classM5Timer.html#a5ad1d17a5e0d8abc3166f691b6245b92',1,'M5Timer']]],
+  ['deltax_886',['deltaX',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#aae66a90aa684016db4a37e4cc2268a30',1,'m5::Touch_Class::touch_detail_t']]],
+  ['deltay_887',['deltaY',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#a9aebe96b2e4f119d4fe3ddee476cbc44',1,'m5::Touch_Class::touch_detail_t']]],
+  ['disable_888',['disable',['../classM5Timer.html#a37d1cc4a6672bc1a9d7be183f2e5e0b4',1,'M5Timer']]],
+  ['disableirq_889',['disableIRQ',['../classm5_1_1RTC8563__Class.html#af971950e80d7def33a91dc352003f6e1',1,'m5::RTC8563_Class']]],
+  ['displays_890',['Displays',['../classm5_1_1M5Unified.html#a8a48264b01e402d4ef8106edea365f0b',1,'m5::M5Unified']]],
+  ['distancex_891',['distanceX',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#a984769e64d8ba8c8a458db9ad6e93779',1,'m5::Touch_Class::touch_detail_t']]],
+  ['distancey_892',['distanceY',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#ae1ecb4b8af8d70de0a5d6db8d6bb7127',1,'m5::Touch_Class::touch_detail_t']]]
 ];

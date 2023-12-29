@@ -1,10 +1,20 @@
 var searchData=
 [
-  ['m5timer_73',['M5Timer',['../classM5Timer.html',1,'M5Timer'],['../classM5Timer.html#af0d3d7a63ee7cee99996c74e01684056',1,'M5Timer::M5Timer()']]],
-  ['m5unified_74',['M5Unified',['../classm5_1_1M5Unified.html',1,'m5::M5Unified'],['../md_README.html',1,'(Global Namespace)']]],
-  ['magnification_75',['magnification',['../structm5_1_1mic__config__t.html#afd8de65478e0e308edd0bcba3c9b9989',1,'m5::mic_config_t::magnification()'],['../structm5_1_1speaker__config__t.html#a36f24ac11d99807c058bf367daa04b31',1,'m5::speaker_config_t::magnification()']]],
-  ['max_5ftimers_76',['MAX_TIMERS',['../classM5Timer.html#a637beeec4f742a4cad30e1b870bfe011',1,'M5Timer']]],
-  ['mic_5fclass_77',['Mic_Class',['../classm5_1_1Mic__Class.html',1,'m5']]],
-  ['mic_5fconfig_5ft_78',['mic_config_t',['../structm5_1_1mic__config__t.html',1,'m5']]],
-  ['mpu6886_5fclass_79',['MPU6886_Class',['../classm5_1_1MPU6886__Class.html',1,'m5']]]
+  ['lastchange_383',['lastChange',['../classm5_1_1Button__Class.html#ace794f27e518fd935e348657a60c43ae',1,'m5::Button_Class']]],
+  ['lcd_384',['Lcd',['../classm5_1_1M5Unified.html#ad1dc0d9a0faf5f6dd4342d15d0eccda6',1,'m5::M5Unified']]],
+  ['led_5fbrightness_385',['led_brightness',['../structm5_1_1M5Unified_1_1config__t.html#a3a7efec8369ad02dcd15d3988f902b7b',1,'m5::M5Unified::config_t']]],
+  ['length_386',['length',['../structm5_1_1Mic__Class_1_1recording__info__t.html#a5fd165716d7566093b2f68a0689b94dc',1,'m5::Mic_Class::recording_info_t::length()'],['../structm5_1_1Speaker__Class_1_1wav__info__t.html#a9ae287ba0c3e6ff81d3b5f61a4bc9651',1,'m5::Speaker_Class::wav_info_t::length()']]],
+  ['lightsleep_387',['lightSleep',['../classm5_1_1Power__Class.html#a9786fbaa1bc19fa09aadc4ffe60dbbb3',1,'m5::Power_Class']]],
+  ['liner_5fbuf_388',['liner_buf',['../structm5_1_1Speaker__Class_1_1channel__info__t.html#aa60247be7fb9d725ef656506fc9a094d',1,'m5::Speaker_Class::channel_info_t']]],
+  ['loadoffsetfromnvs_389',['loadOffsetFromNVS',['../classm5_1_1IMU__Class.html#a7482c10e13ad0073c36052d6bb5e11d6',1,'m5::IMU_Class']]],
+  ['log_390',['Log',['../classm5_1_1M5Unified.html#acab377a5ce06f11cea1c9ca538ce3eb0',1,'m5::M5Unified']]],
+  ['log_5fclass_391',['Log_Class',['../classm5_1_1Log__Class.html',1,'m5']]],
+  ['log_5fclass_2ecpp_392',['Log_Class.cpp',['../Log__Class_8cpp.html',1,'']]],
+  ['log_5fclass_2ehpp_393',['Log_Class.hpp',['../Log__Class_8hpp.html',1,'']]],
+  ['log_5ftarget_5fcallback_394',['log_target_callback',['../namespacem5.html#a168bc35501dc0ba23ba894ebd07e1982a2d5376fdf2f512798776bfd9a23c627f',1,'m5']]],
+  ['log_5ftarget_5fdisplay_395',['log_target_display',['../namespacem5.html#a168bc35501dc0ba23ba894ebd07e1982aa4ba794f45323a7ff81ab63b1d4bf3d0',1,'m5']]],
+  ['log_5ftarget_5fmax_396',['log_target_max',['../namespacem5.html#a168bc35501dc0ba23ba894ebd07e1982a0c24562ebba0d64a0eb163c9dea53612',1,'m5']]],
+  ['log_5ftarget_5fserial_397',['log_target_serial',['../namespacem5.html#a168bc35501dc0ba23ba894ebd07e1982ab73b90c0f074027237ed60f89fdc8ebf',1,'m5']]],
+  ['log_5ftarget_5ft_398',['log_target_t',['../namespacem5.html#a168bc35501dc0ba23ba894ebd07e1982',1,'m5']]],
+  ['loop_399',['loop',['../user__code_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f',1,'user_code.cpp']]]
 ];

@@ -1,7 +1,13 @@
 var searchData=
 [
-  ['dac_5fzero_5flevel_302',['dac_zero_level',['../structm5_1_1speaker__config__t.html#a5c487ecdce831c2ca081cbacf9e47e2f',1,'m5::speaker_config_t']]],
-  ['disable_5frtc_5firq_303',['disable_rtc_irq',['../structm5_1_1M5Unified_1_1config__t.html#a5ed3293c05ca3dd265975da9ba0bd16b',1,'m5::M5Unified::config_t']]],
-  ['dma_5fbuf_5fcount_304',['dma_buf_count',['../structm5_1_1mic__config__t.html#a8b5c3b5fc5d9c314e76b0afa5e6a0264',1,'m5::mic_config_t::dma_buf_count()'],['../structm5_1_1speaker__config__t.html#af27a226969e92f03a4857e939c87993c',1,'m5::speaker_config_t::dma_buf_count()']]],
-  ['dma_5fbuf_5flen_305',['dma_buf_len',['../structm5_1_1mic__config__t.html#ae6e1899386b4c56977239d192f6855c1',1,'m5::mic_config_t::dma_buf_len()'],['../structm5_1_1speaker__config__t.html#af7b0f1afbe3ed1f705cf8af177a270af',1,'m5::speaker_config_t::dma_buf_len()']]]
+  ['base_1183',['base',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#a2b194adc9d9c13bd1343a9148c77af79',1,'m5::Touch_Class::touch_detail_t']]],
+  ['base_5fmsec_1184',['base_msec',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#abe133610c3caa278e2f112e96af73578',1,'m5::Touch_Class::touch_detail_t']]],
+  ['base_5fx_1185',['base_x',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#a54952804365e8418c80b2c69bc018125',1,'m5::Touch_Class::touch_detail_t']]],
+  ['base_5fy_1186',['base_y',['../structm5_1_1Touch__Class_1_1touch__detail__t.html#a595c098ed16e30a979f7a0a1a32acc62',1,'m5::Touch_Class::touch_detail_t']]],
+  ['btna_1187',['BtnA',['../classm5_1_1M5Unified.html#a417917568f435e974dd6b971fdb8456f',1,'m5::M5Unified']]],
+  ['btnb_1188',['BtnB',['../classm5_1_1M5Unified.html#a667ce40ecee7cdbf3d47b52cf4d6da9d',1,'m5::M5Unified']]],
+  ['btnc_1189',['BtnC',['../classm5_1_1M5Unified.html#a55921362f1858f69f0494dcc0914fafc',1,'m5::M5Unified']]],
+  ['btnext_1190',['BtnEXT',['../classm5_1_1M5Unified.html#a14a5386c8c6a696af88efb850b8a5d2e',1,'m5::M5Unified']]],
+  ['btnpwr_1191',['BtnPWR',['../classm5_1_1M5Unified.html#a74939a8175620705b2e60040d91b6863',1,'m5::M5Unified']]],
+  ['buzzer_1192',['buzzer',['../structm5_1_1speaker__config__t.html#a608bab39c2429216f5b11c843aa039a8',1,'m5::speaker_config_t']]]
 ];
